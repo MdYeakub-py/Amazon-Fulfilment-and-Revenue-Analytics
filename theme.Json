@@ -1,0 +1,58 @@
+{
+  "name": "Amazon_Analytics_Theme",
+  "dataColors": [
+    "#FF9900",
+    "#232F3E",
+    "#17A2B8",
+    "#28A745",
+    "#DC3545",
+    "#FFC107",
+    "#6C757D",
+    "#007BFF"
+  ],
+  "background": "#0E1117",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#FF9900",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{
+          "color": "#FFFFFF",
+          "fontSize": 12
+        }],
+        "labels": [{
+          "color": "#FFFFFF"
+        }]
+      }
+    },
+
+    "card": {
+      "*": {
+        "cardTitle": [{
+          "color": "#A3A3A3"
+        }],
+        "cardBody": [{
+          "color": "#FFFFFF",
+          "fontSize": 18
+        }]
+      }
+    },
+
+    "slicer": {
+      "*": {
+        "header": [{
+          "fontSize": 12,
+          "color": "#FFFFFF"
+        }],
+        "items": [{
+          "color": "#FFFFFF",
+          "fontSize": 11
+        }],
+        "background": [{
+          "color": "#232F3E"
+        }]
+      }
+    }
+  }
+}
